@@ -1,0 +1,29 @@
+h2{
+	color: red;
+	
+}
+div{
+	
+	border: 2px solid #dad2d2;
+}
+}
+tr{
+	padding: 10px 10px 10px 10px;
+}
+.titulos th{
+	border : 2px solid #dad2d2;
+	background:darkcyan;
+	font-size: 150%;
+	width: 200px;
+}
+ td{
+	border-right: 2px solid #dad2d2;
+	padding: 10px 10px 10px 50px;
+	font-size: 100%;
+}
+table{
+	border-bottom: 2px solid #dad2d2;
+}
+#deducciones h2, #result h2 , #descuentos h2{
+	padding: 10px 10px 10px 350px;
+}

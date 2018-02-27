@@ -1,0 +1,155 @@
+body{
+	    background: darkslategrey;
+}
+h1{
+	    color: cadetblue;
+}
+header{
+	    background: cadetblue;
+}
+
+.menu a{
+	font-size: 120%;
+    color: cyan;
+}
+.menu ul{
+	background: border-box;
+    display: inline-flex;
+    list-style: none;
+	  }
+
+.Reportes{
+	background: cadetblue;
+    width: 589px;
+	padding: 2px 4px 4px 4px;
+}
+label[for="inicio"]{
+	color: cyan;
+    position: relative;
+    left: 170px;
+    font-size: 184%;
+}
+.Reportes form label{
+	padding: 0px 10px 0px 14px;
+    color: floralwhite;
+    font-size: 117%;
+}
+
+.Reportes .fecha{
+	position: relative;
+    left: 39px;
+    padding: 3px 0px 2px 15px;
+    background: cyan;
+    color: darkcyan;
+    font-size: 132%;
+}
+
+#cedula{
+	    position: relative;
+    left: 12px;
+    font-size: 130%;
+    padding: 0 10px 0 15px;
+}
+
+#horas{
+	position: relative;
+    left: 31px;
+    font-size: 130%;
+    padding: 0 10px 0 15px;
+}
+
+
+.Reportes form select{
+	position: relative;
+    left: 60px;
+    font-size: 85%;
+    padding: 4px 8px 5px 15px;
+}
+
+#submit{
+	    background: cyan;
+    font-size: 183%;
+    color: darkcyan;
+    padding: 7px 278px 4px 193px
+}
+
+.Desprendible{ 
+	    width: 700px;
+       position: relative;
+    top: -297px;
+    left: 618px;
+    background: cadetblue;
+	    padding: 5px 9px 9px 4px;
+		}
+.Desprendible form label{
+	padding: 0px 10px 0px 14px;
+    color: floralwhite;
+    font-size: 117%;
+	position: relative;
+    left: 0px;
+}
+.Desprendible .fecha{
+    padding: 3px 0px 3px 2px;
+    background: cyan;
+    color: darkcyan;
+    font-size: 103%;
+}
+.Desprendible #submit{
+	    background: cyan;
+    font-size: 183%;
+    color: darkcyan;
+   padding:  7px 214px 4px 193px;
+}
+.Registro{
+	position: relative;
+    left: 370;
+    background: cadetblue;
+    width: 589px;
+    padding: 2px 4px 4px 4px;
+}
+.Registro form label{
+	padding: 0px 10px 0px 14px;
+    color: floralwhite;
+    font-size: 117%;
+	position: relative;
+    left: 0px;
+}
+.Registro #cedula{
+	position: relative;
+    left: 20px;
+    font-size: 130%;
+    padding: 0 10px 0 15px;
+}
+.Registro #nombre{
+	position: relative;
+    left: 12px;
+    font-size: 130%;
+    padding: 0 10px 0 15px;
+}
+.Registro #apellido{
+	position: relative;
+    left: 8px;
+    font-size: 130%;
+    padding: 0 10px 0 15px;
+}
+.Registro #fecha{
+	padding: 3px 0px 3px 2px;
+    background: cyan;
+    color: darkcyan;
+    font-size: 103%;
+    position: relative;
+    left: 46px;
+}
+.Registro form select{
+position: relative;
+    left: 106px;
+    font-size: 85%;
+    padding: 4px 8px 5px 15px;
+}
+
+.Registro #submit{
+	  background: cyan;
+    font-size: 183%;
+    color: darkcyan;
+    padding: 7px 255px 4px 211px;
+}
